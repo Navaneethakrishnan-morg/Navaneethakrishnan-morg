@@ -1,4 +1,7 @@
 # <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=2200&pause=700&color=FF2D95&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Navaneetha+Krishnan" /></p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e8/5b/6a/e85b6aa0fc4436aaf29c7ff280991690.gif" width="600">
+</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/e8/5b/6a/e85b6aa0fc4436aaf29c7ff280991690.gif" width="720">
