@@ -1,50 +1,66 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Navaneetha Krishnan, a Passionate Developer :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
+</div>
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>
-    <a href="https://reactjs.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a>
-    <a href="https://www.java.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-    </a>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Navaneethakrishnan+Tamizharasan+%F0%9F%91%8B;Developer;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG"/>
+</h1>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<div align="center">
 
-- 💻 I'm a passionate developer focused on building interactive and impactful web experiences.  
-- 🌱 Currently learning and improving my skills in React and Java.  
-- 🚀 Always open to exploring new technologies and collaborating on creative projects.  
-- 🎯 Life Hack: “Code. Create. Conquer.”  
-- ⚡ Fun fact: I enjoy making projects that bring ideas to life visually.  
+## About Me
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/navaneethakrishnan-navan" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" alt="LinkedIn Logo"/>
+🎓 **B.Tech – Computer Science and Business Systems (CSBS)**  
+💻 **Passionate Developer** focused on learning and building impactful solutions  
+🌱 Constantly improving problem-solving and development skills  
+💡 Interested in backend logic, clean code, and real-world applications  
+⚡ Dedicated, consistent, and enthusiastic about technology  
+
+📧 **navaneethakrishnan2516@gmail.com**
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode&theme=dark" alt="Tech Stack" />
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/navaneethakrishnan-navan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/navaneetha_krishnan_/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="mailto:navaneethakrishnan2516@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30" alt="Gmail Logo"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Navaneetha%20Krishnan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/navaneethakrishnan-navan)](https://www.linkedin.com/in/navaneethakrishnan-navan) 
-[![GitHub Badge](https://img.shields.io/badge/-Navaneethakrishnan--morg-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Navaneethakrishnan-morg)](https://github.com/Navaneethakrishnan-morg)
-[![Gmail Badge](https://img.shields.io/badge/-navaneethakrishnan2516@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:navaneethakrishnan2516@gmail.com)](mailto:navaneethakrishnan2516@gmail.com)
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+🏗️ Building and improving real-world projects  
+💪 Practicing DSA and solving problems on LeetCode  
+📚 Strengthening core CS and CSBS fundamentals  
+🚀 Exploring modern development tools and best practices  
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
