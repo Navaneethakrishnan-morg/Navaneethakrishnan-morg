@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/240825379-84e6c92c-0b47-4db3-9c3f-59b6d3edb41a.gif"
+    width="520" 
+    alt="Night Coder Pixel Animation"
+  />
 </div>
 
 <h1 align="center">
