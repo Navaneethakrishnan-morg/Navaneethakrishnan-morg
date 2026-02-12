@@ -71,5 +71,10 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/235294027-0b1b7a9f-0e64-4a3f-b9d6-7d9c6a8f4c6a.gif"
+    width="900"
+    alt="Green Divider Line"
+  />
 </div>
+
