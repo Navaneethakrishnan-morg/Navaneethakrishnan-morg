@@ -7,8 +7,12 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Navaneethakrishnan+Tamizharasan;Developer;A Pationate worker;s alt="Typing SVG"/>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+I+am+Navaneethakrishnan;A+Passionate+Worker;A+Web+Designer" 
+    alt="Typing SVG"
+  />
 </h1>
+>
 
 <div align="center">
 
