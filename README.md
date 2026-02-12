@@ -70,11 +70,5 @@
 
 ---
 
-<div align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/235294027-0b1b7a9f-0e64-4a3f-b9d6-7d9c6a8f4c6a.gif"
-    width="900"
-    alt="Green Divider Line"
-  />
-</div>
+<div style="width:90%; height:3px; margin:40px auto; background: linear-gradient(90deg, transparent, #00FF7F, transparent);"></div>
 
