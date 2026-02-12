@@ -1,9 +1,3 @@
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF7F&center=true&vCenter=true&width=940&lines=Hello+there,+I+am+Navaneetha+Krishnan;A+Passionate+Worker;A+Web+Designer" 
-    alt="Typing SVG"
-  />
-</h1>
 
 <div align="center">
   <img 
@@ -19,13 +13,6 @@
     alt="Typing SVG"
   />
 </h1>
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF7F&center=true&vCenter=true&width=940&lines=Hello+there,+I+am+Navaneetha+Krishnan;A+Passionate+Worker;A+Web+Designer" 
-    alt="Typing SVG"
-  />
-</h1>
-
 >
 
 <div align="center">
