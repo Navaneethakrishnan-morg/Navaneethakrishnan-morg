@@ -1,11 +1,10 @@
 <div align="center">
   <img 
-    src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+    src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif"
     width="520"
-    alt="Animated Developer Coding"
+    alt="Pixel Developer Coding Animation"
   />
 </div>
-
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Navaneethakrishnan+Tamizharasan+%F0%9F%91%8B;Developer;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG"/>
