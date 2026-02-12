@@ -70,5 +70,5 @@
 
 ---
 
-<div style="width:90%; height:3px; margin:40px auto; background: linear-gradient(90deg, transparent, #00FF7F, transparent);"></div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> </div>
 
